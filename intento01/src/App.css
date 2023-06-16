@@ -1,0 +1,30 @@
+.App .container {
+  position: relative;
+  top: 20px; 
+  border: 2px solid rgb(173, 220, 226);
+  width: 550px;
+  height: 400px;
+  z-index: 1;
+  border-radius: 10px;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.App .footer {
+  position: relative;
+  font-size: 12px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  opacity: 70%;
+  max-width: 540px;
+}
+
+.App {
+  background-color: black;
+  height: 620px;
+  margin: 0;
+  
+}
